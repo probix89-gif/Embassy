@@ -34,10 +34,10 @@ export default function Footer() {
           <h4 className="text-[11px] tracking-[0.26em] uppercase text-[#c5a24e] mb-5">
             Contact
           </h4>
-          <p className="text-[13px] font-light py-1.5">11-D, Middle Circle</p>
+          <p className="text-[13px] font-light py-1.5">11-D, D Block, Middle Circle</p>
           <p className="text-[13px] font-light py-1.5">Connaught Place</p>
           <p className="text-[13px] font-light py-1.5">New Delhi 110001</p>
-          <p className="text-[13px] font-light py-1.5">+91 98XXX XXXXX</p>
+          <p className="text-[13px] font-light py-1.5">+91 11 2341 6434</p>
         </div>
         <div>
           <h4 className="text-[11px] tracking-[0.26em] uppercase text-[#c5a24e] mb-5">

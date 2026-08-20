@@ -31,7 +31,7 @@ export default function ContactPage() {
             {[
               { icon: "📍", t: "Address", d: "11-D, Middle Circle, Connaught Place", s: "New Delhi, Delhi 110001" },
               { icon: "🕛", t: "Hours", d: "12:30 PM – 11:00 PM", s: "Open all days · Lunch & Dinner" },
-              { icon: "📞", t: "Reservations", d: "+91 98XXX XXXXX", s: "For parties of 6+, please call ahead" },
+              { icon: "📞", t: "Reservations", d: "+91 11 2341 6434", s: "For parties of 6+, please call ahead" },
               { icon: "📱", t: "Online", d: "@theembassyindia · Instagram", s: "Book via Zomato · 4.0★ rating" },
             ].map((r) => (
               <div key={r.t} className="flex gap-5 py-5 border-b border-[#21402e]/10">
